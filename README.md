@@ -1,5 +1,7 @@
 # GatsbyJS + microCMS Landing page template.
 
+TODO: READMEは書いてる途中です。
+
 ## セットアップ
 
 ローカルで動かすために、`.env.developmet`を作成して、`SERVICE_ID`と`API_KEY`を設定します。
